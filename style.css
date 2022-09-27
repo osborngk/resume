@@ -1,0 +1,47 @@
+
+
+body { background-color: rgba(44, 130, 201, .5); font-family: 'Roboto', sans-serif;
+	 font-size: 1rem; word-spacing: .1rem;}
+
+h1 { font-family: 'Merriweather', serif; font-size: 2rem; }
+
+h2 { font-family: 'Merriweather', serif; font-size: 1.5rem; text-transform: uppercase; 
+		color: #7C6E7F; margin-bottom: 5px;}
+
+h3 { font-family: 'Merriweather', serif; font-size: 1.25rem; margin-top: 10px; text-decoration: underline;}
+
+.space { margin-bottom: 50px; }
+
+.job { margin-bottom: 40px; }
+
+.white-space { margin-right: 750px; }
+
+#contact { text-align: center; background-image: url(pattern.png); margin-left: 450px; margin-right: 450px; padding-top: 20px; padding-bottom: 35px;}
+
+img { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	width: 400px
+	 }
+
+li { margin: 0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 30px;
+	list-style: none;
+	background-image: url("dukedog.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-size: 25px; }
+
+a:link { color: black; }
+
+a:visited { color: white; }
+
+a:hover { color: yellow; }
+
+a:active { color: blue; }
+
